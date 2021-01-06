@@ -1,2 +1,2 @@
 # fluttercourse
-Source Code belajar flutter bareng teman2
+Source Code belajar Futter bareng teman2
